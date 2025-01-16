@@ -1,0 +1,386 @@
+[{
+  "givenUrl": "https://www.transfermarkt.com/real-madrid/kader/verein/418/saison_id/2024/plus/1",
+  "id": "418",
+  "url": "https://www.transfermarkt.com/real-madrid/kader/verein/418/saison_id/2024/plus/1",
+  "type": "club",
+  "players": [
+    {
+      "#": "1",
+      "Player": [
+        "Thibaut Courtois",
+        "Goalkeeper"
+      ],
+      "Date of birth/Age": "May 11, 1992 (32)",
+      "Height": "2,00m",
+      "Foot": "left",
+      "Joined": "Aug 9, 2018",
+      "Signed from": "Chelsea FC",
+      "Contract": "Jun 30, 2026",
+      "Market value": "€25.00m",
+      "Nat.": "Belgium"
+    },
+    {
+      "#": "13",
+      "Player": [
+        "Andriy Lunin",
+        "Goalkeeper"
+      ],
+      "Date of birth/Age": "Feb 11, 1999 (25)",
+      "Height": "1,91m",
+      "Foot": "right",
+      "Joined": "Jul 1, 2018",
+      "Signed from": "Zorya Lugansk",
+      "Contract": "Jun 30, 2030",
+      "Market value": "€20.00m",
+      "Nat.": "Ukraine"
+    },
+    {
+      "#": "3",
+      "Player": [
+        "Éder Militão",
+        "Centre-Back"
+      ],
+      "Date of birth/Age": "Jan 18, 1998 (26)",
+      "Height": "1,86m",
+      "Foot": "right",
+      "Joined": "Jul 1, 2019",
+      "Signed from": "FC Porto",
+      "Contract": "Jun 30, 2028",
+      "Market value": "€40.00m",
+      "Nat.": [
+        "Brazil",
+        "Spain"
+      ]
+    },
+    {
+      "#": "22",
+      "Player": [
+        "Antonio Rüdiger",
+        "Centre-Back"
+      ],
+      "Date of birth/Age": "Mar 3, 1993 (31)",
+      "Height": "1,90m",
+      "Foot": "right",
+      "Joined": "Jul 1, 2022",
+      "Signed from": "Chelsea FC",
+      "Contract": "Jun 30, 2026",
+      "Market value": "€24.00m",
+      "Nat.": [
+        "Germany",
+        "Sierra Leone"
+      ]
+    },
+    {
+      "#": "4",
+      "Player": [
+        "David Alaba",
+        "Centre-Back"
+      ],
+      "Date of birth/Age": "Jun 24, 1992 (32)",
+      "Height": "1,80m",
+      "Foot": "left",
+      "Joined": "Jul 1, 2021",
+      "Signed from": "Bayern Munich",
+      "Contract": "Jun 30, 2026",
+      "Market value": "€10.00m",
+      "Nat.": "Austria"
+    },
+    {
+      "#": "35",
+      "Player": [
+        "Raúl Asencio",
+        "Centre-Back"
+      ],
+      "Date of birth/Age": "Feb 13, 2003 (21)",
+      "Height": "1,84m",
+      "Foot": "right",
+      "Joined": "Jul 1, 2024",
+      "Signed from": "Real Madrid Castilla",
+      "Contract": "Jun 30, 2026",
+      "Market value": "€7.50m",
+      "Nat.": "Spain"
+    },
+    {
+      "#": "18",
+      "Player": [
+        "Jesús Vallejo",
+        "Centre-Back"
+      ],
+      "Date of birth/Age": "Jan 5, 1997 (28)",
+      "Height": "1,84m",
+      "Foot": "right",
+      "Joined": "Jul 31, 2015",
+      "Signed from": "Real Zaragoza",
+      "Contract": "Jun 30, 2025",
+      "Market value": "€1.00m",
+      "Nat.": "Spain"
+    },
+    {
+      "#": "23",
+      "Player": [
+        "Ferland Mendy",
+        "Left-Back"
+      ],
+      "Date of birth/Age": "Jun 8, 1995 (29)",
+      "Height": "1,80m",
+      "Foot": "left",
+      "Joined": "Jul 1, 2019",
+      "Signed from": "Olympique Lyon",
+      "Contract": "Jun 30, 2025",
+      "Market value": "€18.00m",
+      "Nat.": [
+        "France",
+        "Senegal"
+      ]
+    },
+    {
+      "#": "20",
+      "Player": [
+        "Fran García",
+        "Left-Back"
+      ],
+      "Date of birth/Age": "Aug 14, 1999 (25)",
+      "Height": "1,69m",
+      "Foot": "left",
+      "Joined": "Jul 1, 2023",
+      "Signed from": "Rayo Vallecano",
+      "Contract": "Jun 30, 2027",
+      "Market value": "€15.00m",
+      "Nat.": "Spain"
+    },
+    {
+      "#": "2",
+      "Player": [
+        "Daniel Carvajal",
+        "Right-Back"
+      ],
+      "Date of birth/Age": "Jan 11, 1992 (32)",
+      "Height": "1,73m",
+      "Foot": "right",
+      "Joined": "Jul 1, 2013",
+      "Signed from": "Bayer 04 Leverkusen",
+      "Contract": "Jun 30, 2026",
+      "Market value": "€10.00m",
+      "Nat.": "Spain"
+    },
+    {
+      "#": "17",
+      "Player": [
+        "Lucas Vázquez",
+        "Right-Back"
+      ],
+      "Date of birth/Age": "Jul 1, 1991 (33)",
+      "Height": "1,73m",
+      "Foot": "right",
+      "Joined": "Jul 2, 2015",
+      "Signed from": "RCD Espanyol Barcelona",
+      "Contract": "Jun 30, 2025",
+      "Market value": "€3.50m",
+      "Nat.": "Spain"
+    },
+    {
+      "#": "14",
+      "Player": [
+        "Aurélien Tchouaméni",
+        "Defensive Midfield"
+      ],
+      "Date of birth/Age": "Jan 27, 2000 (24)",
+      "Height": "1,88m",
+      "Foot": "right",
+      "Joined": "Jul 1, 2022",
+      "Signed from": "AS Monaco",
+      "Contract": "Jun 30, 2028",
+      "Market value": "€80.00m",
+      "Nat.": [
+        "France",
+        "Cameroon"
+      ]
+    },
+    {
+      "#": "8",
+      "Player": [
+        "Federico Valverde",
+        "Central Midfield"
+      ],
+      "Date of birth/Age": "Jul 22, 1998 (26)",
+      "Height": "1,82m",
+      "Foot": "right",
+      "Joined": "Jul 1, 2018",
+      "Signed from": "Real Madrid Castilla",
+      "Contract": "Jun 30, 2029",
+      "Market value": "€130.00m",
+      "Nat.": [
+        "Uruguay",
+        "Spain"
+      ]
+    },
+    {
+      "#": "6",
+      "Player": [
+        "Eduardo Camavinga",
+        "Central Midfield"
+      ],
+      "Date of birth/Age": "Nov 10, 2002 (22)",
+      "Height": "1,82m",
+      "Foot": "left",
+      "Joined": "Aug 31, 2021",
+      "Signed from": "Stade Rennais FC",
+      "Contract": "Jun 30, 2029",
+      "Market value": "€80.00m",
+      "Nat.": [
+        "France",
+        "Congo"
+      ]
+    },
+    {
+      "#": "10",
+      "Player": [
+        "Luka Modric",
+        "Central Midfield"
+      ],
+      "Date of birth/Age": "Sep 9, 1985 (39)",
+      "Height": "1,72m",
+      "Foot": "right",
+      "Joined": "Aug 27, 2012",
+      "Signed from": "Tottenham Hotspur",
+      "Contract": "Jun 30, 2025",
+      "Market value": "€5.00m",
+      "Nat.": "Croatia"
+    },
+    {
+      "#": "19",
+      "Player": [
+        "Dani Ceballos",
+        "Central Midfield"
+      ],
+      "Date of birth/Age": "Aug 7, 1996 (28)",
+      "Height": "1,79m",
+      "Foot": "right",
+      "Joined": "Jul 14, 2017",
+      "Signed from": "Real Betis Balompié",
+      "Contract": "Jun 30, 2027",
+      "Market value": "€4.00m",
+      "Nat.": "Spain"
+    },
+    {
+      "#": "5",
+      "Player": [
+        "Jude Bellingham",
+        "Attacking Midfield"
+      ],
+      "Date of birth/Age": "Jun 29, 2003 (21)",
+      "Height": "1,86m",
+      "Foot": "right",
+      "Joined": "Jul 1, 2023",
+      "Signed from": "Borussia Dortmund",
+      "Contract": "Jun 30, 2029",
+      "Market value": "€180.00m",
+      "Nat.": [
+        "England",
+        "Ireland"
+      ]
+    },
+    {
+      "#": "7",
+      "Player": [
+        "Vinicius Junior",
+        "Left Winger"
+      ],
+      "Date of birth/Age": "Jul 12, 2000 (24)",
+      "Height": "1,76m",
+      "Foot": "right",
+      "Joined": "Jul 12, 2018",
+      "Signed from": "CR Flamengo",
+      "Contract": "Jun 30, 2027",
+      "Market value": "€200.00m",
+      "Nat.": [
+        "Brazil",
+        "Spain"
+      ]
+    },
+    {
+      "#": "11",
+      "Player": [
+        "Rodrygo",
+        "Right Winger"
+      ],
+      "Date of birth/Age": "Jan 9, 2001 (24)",
+      "Height": "1,74m",
+      "Foot": "right",
+      "Joined": "Jul 1, 2019",
+      "Signed from": "Santos FC",
+      "Contract": "Jun 30, 2028",
+      "Market value": "€100.00m",
+      "Nat.": [
+        "Brazil",
+        "Spain"
+      ]
+    },
+    {
+      "#": "15",
+      "Player": [
+        "Arda Güler",
+        "Right Winger"
+      ],
+      "Date of birth/Age": "Feb 25, 2005 (19)",
+      "Height": "1,75m",
+      "Foot": "left",
+      "Joined": "Jul 6, 2023",
+      "Signed from": "Fenerbahce",
+      "Contract": "Jun 30, 2029",
+      "Market value": "€45.00m",
+      "Nat.": "Türkiye"
+    },
+    {
+      "#": "21",
+      "Player": [
+        "Brahim Díaz",
+        "Right Winger"
+      ],
+      "Date of birth/Age": "Aug 3, 1999 (25)",
+      "Height": "1,70m",
+      "Foot": "both",
+      "Joined": "Jan 6, 2019",
+      "Signed from": "Manchester City",
+      "Contract": "Jun 30, 2027",
+      "Market value": "€35.00m",
+      "Nat.": [
+        "Morocco",
+        "Spain"
+      ]
+    },
+    {
+      "#": "9",
+      "Player": [
+        "Kylian Mbappé",
+        "Centre-Forward"
+      ],
+      "Date of birth/Age": "Dec 20, 1998 (26)",
+      "Height": "1,78m",
+      "Foot": "right",
+      "Joined": "Jul 1, 2024",
+      "Signed from": "Paris Saint-Germain",
+      "Contract": "Jun 30, 2029",
+      "Market value": "€160.00m",
+      "Nat.": [
+        "France",
+        "Cameroon"
+      ]
+    },
+    {
+      "#": "16",
+      "Player": [
+        "Endrick",
+        "Centre-Forward"
+      ],
+      "Date of birth/Age": "Jul 21, 2006 (18)",
+      "Height": "1,73m",
+      "Foot": "left",
+      "Joined": "Jul 21, 2024",
+      "Signed from": "Sociedade Esportiva Palmeiras",
+      "Contract": "Jun 30, 2030",
+      "Market value": "€40.00m",
+      "Nat.": "Brazil"
+    }
+  ]
+}]
